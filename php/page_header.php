@@ -519,9 +519,9 @@ if ($identifier == 0) {
                                     </a>
                                     <div class="dropdown-menu">
                                         <ul class="nav">
-                                            <li><a href="../donor/donor_profile.php" class="dropdown-item"><i class="fas fa-address-card"></i> Profile</a></li>
+                                            <li><a href="../receiver/receiver_profile.php" class="dropdown-item"><i class="fas fa-address-card"></i> Profile</a></li>
                                             <div class="dropdown-divider"></div>
-                                            <li><a href="../donor/donor_signout.php" class="dropdown-item"><i class="fas fa-sign-out-alt"></i> Sign out</a></li>
+                                            <li><a href="../receiver/receiver_signout.php" class="dropdown-item"><i class="fas fa-sign-out-alt"></i> Sign out</a></li>
                                         </ul>
                                     </div>
                                 </li>        
@@ -604,9 +604,9 @@ if ($identifier == 0) {
                                     </a>
                                     <div class="dropdown-menu">
                                         <ul class="nav">
-                                            <li><a href="../donor/donor_profile.php" class="dropdown-item"><i class="fas fa-address-card"></i> Profile</a></li>
+                                            <li><a href="../receiver/receiver_profile.php" class="dropdown-item"><i class="fas fa-address-card"></i> Profile</a></li>
                                             <div class="dropdown-divider"></div>
-                                            <li><a href="../donor/donor_signout.php" class="dropdown-item"><i class="fas fa-sign-out-alt"></i> Sign out</a></li>
+                                            <li><a href="../receiver/receiver_signout.php" class="dropdown-item"><i class="fas fa-sign-out-alt"></i> Sign out</a></li>
                                         </ul>
                                     </div>
                                 </li>        
@@ -639,9 +639,9 @@ if ($identifier == 0) {
                                     </a>
                                     <div class="dropdown-menu">
                                         <ul class="nav">
-                                            <li><a href="../donor/donor_profile.php" class="dropdown-item"><i class="fas fa-address-card"></i> Profile</a></li>
+                                            <li><a href="../receiver/receiver_profile.php" class="dropdown-item"><i class="fas fa-address-card"></i> Profile</a></li>
                                             <div class="dropdown-divider"></div>
-                                            <li><a href="../donor/donor_signout.php" class="dropdown-item"><i class="fas fa-sign-out-alt"></i> Sign out</a></li>
+                                            <li><a href="../receiver/receiver_signout.php" class="dropdown-item"><i class="fas fa-sign-out-alt"></i> Sign out</a></li>
                                         </ul>
                                     </div>
                                 </li>        
@@ -675,9 +675,9 @@ if ($identifier == 0) {
                                     </a>
                                     <div class="dropdown-menu">
                                         <ul class="nav">
-                                            <li><a href="../donor/donor_profile.php" class="dropdown-item"><i class="fas fa-address-card"></i> Profile</a></li>
+                                            <li><a href="../receiver/receiver_profile.php" class="dropdown-item"><i class="fas fa-address-card"></i> Profile</a></li>
                                             <div class="dropdown-divider"></div>
-                                            <li><a href="../donor/donor_signout.php" class="dropdown-item"><i class="fas fa-sign-out-alt"></i> Sign out</a></li>
+                                            <li><a href="../receiver/receiver_signout.php" class="dropdown-item"><i class="fas fa-sign-out-alt"></i> Sign out</a></li>
                                         </ul>
                                     </div>
                                 </li>        
