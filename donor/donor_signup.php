@@ -77,7 +77,7 @@ if (isset($_POST["login"])) {
                     <input type="password" name="password" id="password" class="form-control" placeholder="Password">
                   </div>
                   <button name="login" id="login" class="btn btn-block login-btn mb-4" type="submit">
-                    Register
+                    Sign Up
                   </button>
                 </form>
                 <p class="login-card-footer-text">Already have an account? <a href="donor_signin.php" class="text-reset">Login here</a></p>
