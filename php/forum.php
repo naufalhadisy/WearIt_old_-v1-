@@ -34,10 +34,7 @@ include("page_header.php"); ?>
 					<div class="card-header">
 						<b>Thread List</b>
 						<span class="">
-
-							<button class="btn btn-primary btn-block btn-sm col-sm-2 float-right" type="button" id="new_topic">
-					<i class="fa fa-plus"></i><a href="createthread.php"> Create Thread</button></a>
-				</span>
+							<a href="createthread.php" class="btn btn-primary btn-block btn-sm col-sm-2 float-right"><i class="fa fa-plus"></i> <span>Create Thread</span></a>
 					</div>
 					<div class="card-body">
 						<ul class="w-100 list-group" id="topic-list">
