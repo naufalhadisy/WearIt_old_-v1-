@@ -53,22 +53,22 @@ if ($identifier == 0) {
                             <div class="collapse navbar-collapse" id="navbarNavDropdown">
                                 <ul class="navbar-nav ml-auto">
                                     <li class="nav-item">
-                                        <a class="nav-link active" aria-current="page" href="index.php">HOME</a>
+                                        <a class="nav-link active" aria-current="page" href="../php/index.php">HOME</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" href="donation.php">DONATION</a>
+                                        <a class="nav-link" href="../php/donation.php">DONATION</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" href="forum.php">FORUM</a>
+                                        <a class="nav-link" href="../php/forum.php">FORUM</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" href="feedback.php">FEEDBACK</a>
+                                        <a class="nav-link" href="../php/feedback.php">FEEDBACK</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" id="login" href="signin.php"><b>SIGN IN</b></a>
+                                        <a class="nav-link" id="login" href="../php/signin.php"><b>SIGN IN</b></a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" id="login" href="signup.php"><b>SIGN UP</b></a>
+                                        <a class="nav-link" id="login" href="../php/signup.php"><b>SIGN UP</b></a>
                                     </li>
                                 </ul>
                             </div>
@@ -123,65 +123,65 @@ if ($identifier == 0) {
                                 <?php if($identifier == 1) { ?>
                                   
                                   <li class="nav-item">
-                                        <a class="nav-link" aria-current="page" href="index.php">HOME</a>
+                                        <a class="nav-link" aria-current="page" href="../php/index.php">HOME</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link active" href="donation.php">DONATION</a>
+                                        <a class="nav-link active" href="../php/donation.php">DONATION</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" href="forum.php">FORUM</a>
+                                        <a class="nav-link" href="../php/forum.php">FORUM</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" href="feedback.php">FEEDBACK</a>
+                                        <a class="nav-link" href="../php/feedback.php">FEEDBACK</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" id="login" href="signin.php"><b>SIGN IN</b></a>
+                                        <a class="nav-link" id="login" href="../php/signin.php"><b>SIGN IN</b></a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" id="login" href="signup.php"><b>SIGN UP</b></a>
+                                        <a class="nav-link" id="login" href="../php/signup.php"><b>SIGN UP</b></a>
                                     </li>
                                 </ul>
                             
                             <?php } if($identifier == 2){ ?>
                               <li class="nav-item">
-                                        <a class="nav-link" aria-current="page" href="index.php">HOME</a>
+                                        <a class="nav-link" aria-current="page" href="../php/index.php">HOME</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" href="donation.php">DONATION</a>
+                                        <a class="nav-link" href="../php/donation.php">DONATION</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link active" href="forum.php">FORUM</a>
+                                        <a class="nav-link active" href="../php/forum.php">FORUM</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" href="feedback.php">FEEDBACK</a>
+                                        <a class="nav-link" href="../php/feedback.php">FEEDBACK</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" id="login" href="signin.php"><b>SIGN IN</b></a>
+                                        <a class="nav-link" id="login" href="../php/signin.php"><b>SIGN IN</b></a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" id="login" href="signup.php"><b>SIGN UP</b></a>
+                                        <a class="nav-link" id="login" href="../php/signup.php"><b>SIGN UP</b></a>
                                     </li>
                                 </ul>
 
                             <?php } if($identifier == 3){ ?>    
                               <li class="nav-item">
-                                        <a class="nav-link" aria-current="page" href="index.php">HOME</a>
+                                        <a class="nav-link" aria-current="page" href="../php/index.php">HOME</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" href="donation.php">DONATION</a>
+                                        <a class="nav-link" href="../php/donation.php">DONATION</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" href="forum.php">FORUM</a>
+                                        <a class="nav-link" href="../php/forum.php">FORUM</a>
                                     </li>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link active" href="feedback.php">FEEDBACK</a>
+                                        <a class="nav-link active" href="../php/feedback.php">FEEDBACK</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" id="login" href="signin.php"><b>SIGN IN</b></a>
+                                        <a class="nav-link" id="login" href="../php/signin.php"><b>SIGN IN</b></a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" id="login" href="signup.php"><b>SIGN UP</b></a>
+                                        <a class="nav-link" id="login" href="../php/signup.php"><b>SIGN UP</b></a>
                                     </li>
                                 </ul>
                                 
@@ -246,16 +246,16 @@ if ($identifier == 0) {
                             <div class="collapse navbar-collapse" id="navbarNavDropdown">
                                 <ul class="navbar-nav ml-auto">
                                     <li class="nav-item">
-                                        <a class="nav-link active" aria-current="page" href="index.php">HOME</a>
+                                        <a class="nav-link active" aria-current="page" href="../php/index.php">HOME</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" href="donation.php">DONATION</a>
+                                        <a class="nav-link" href="../php/donation.php">DONATION</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" href="forum.php">FORUM</a>
+                                        <a class="nav-link" href="../php/forum.php">FORUM</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" href="feedback.php">FEEDBACK</a>
+                                        <a class="nav-link" href="../php/feedback.php">FEEDBACK</a>
                                     </li>
                                     <li class="nav-item dropdown">
                                     <a class="nav-link dropdown-toggle text-grey" data-toggle="dropdown"><i style="padding-right:10px;" class="fas fa-user"></i> 
@@ -331,16 +331,16 @@ if ($identifier == 0) {
                                 <?php if($identifier == 1) { ?>
                                   
                                   <li class="nav-item">
-                                        <a class="nav-link" aria-current="page" href="index.php">HOME</a>
+                                        <a class="nav-link" aria-current="page" href="../php/index.php">HOME</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link active" href="donation.php">DONATION</a>
+                                        <a class="nav-link active" href="../php/donation.php">DONATION</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" href="forum.php">FORUM</a>
+                                        <a class="nav-link" href="../php/forum.php">FORUM</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" href="feedback.php">FEEDBACK</a>
+                                        <a class="nav-link" href="../php/feedback.php">FEEDBACK</a>
                                     </li>
                                     <li class="nav-item dropdown">
                                     <a class="nav-link dropdown-toggle text-grey" data-toggle="dropdown"><i style="padding-right:10px;" class="fas fa-user"></i> 
@@ -366,16 +366,16 @@ if ($identifier == 0) {
                             
                             <?php } if($identifier == 2){ ?>
                               <li class="nav-item">
-                                        <a class="nav-link" aria-current="page" href="index.php">HOME</a>
+                                        <a class="nav-link" aria-current="page" href="../php/index.php">HOME</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" href="donation.php">DONATION</a>
+                                        <a class="nav-link" href="../php/donation.php">DONATION</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link active" href="forum.php">FORUM</a>
+                                        <a class="nav-link active" href="../php/forum.php">FORUM</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" href="feedback.php">FEEDBACK</a>
+                                        <a class="nav-link" href="../php/feedback.php">FEEDBACK</a>
                                     </li>
                                     <li class="nav-item dropdown">
                                     <a class="nav-link dropdown-toggle text-grey" data-toggle="dropdown"><i style="padding-right:10px;" class="fas fa-user"></i> 
@@ -401,17 +401,17 @@ if ($identifier == 0) {
 
                             <?php } if($identifier == 3){ ?>    
                               <li class="nav-item">
-                                        <a class="nav-link" aria-current="page" href="index.php">HOME</a>
+                                        <a class="nav-link" aria-current="page" href="../php/index.php">HOME</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" href="donation.php">DONATION</a>
+                                        <a class="nav-link" href="../php/donation.php">DONATION</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" href="forum.php">FORUM</a>
+                                        <a class="nav-link" href="../php/forum.php">FORUM</a>
                                     </li>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link active" href="feedback.php">FEEDBACK</a>
+                                        <a class="nav-link active" href="../php/feedback.php">FEEDBACK</a>
                                     </li>
                                     <li class="nav-item dropdown">
                                     <a class="nav-link dropdown-toggle text-grey" data-toggle="dropdown"><i style="padding-right:10px;" class="fas fa-user"></i> 
@@ -494,16 +494,16 @@ if ($identifier == 0) {
                             <div class="collapse navbar-collapse" id="navbarNavDropdown">
                                 <ul class="navbar-nav ml-auto">
                                     <li class="nav-item">
-                                        <a class="nav-link active" aria-current="page" href="index.php">HOME</a>
+                                        <a class="nav-link active" aria-current="page" href="../php/index.php">HOME</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" href="donation.php">DONATION</a>
+                                        <a class="nav-link" href="../php/donation.php">DONATION</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" href="forum.php">FORUM</a>
+                                        <a class="nav-link" href="../php/forum.php">FORUM</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" href="feedback.php">FEEDBACK</a>
+                                        <a class="nav-link" href="../php/feedback.php">FEEDBACK</a>
                                     </li>
                                     <li class="nav-item dropdown">
                                     <a class="nav-link dropdown-toggle text-grey" data-toggle="dropdown"><i style="padding-right:10px;" class="fas fa-user"></i> 
@@ -579,16 +579,16 @@ if ($identifier == 0) {
                                 <?php if($identifier == 1) { ?>
                                   
                                   <li class="nav-item">
-                                        <a class="nav-link" aria-current="page" href="index.php">HOME</a>
+                                        <a class="nav-link" aria-current="page" href="../php/index.php">HOME</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link active" href="donation.php">DONATION</a>
+                                        <a class="nav-link active" href="../php/donation.php">DONATION</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" href="forum.php">FORUM</a>
+                                        <a class="nav-link" href="../php/forum.php">FORUM</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" href="feedback.php">FEEDBACK</a>
+                                        <a class="nav-link" href="../php/feedback.php">FEEDBACK</a>
                                     </li>
                                     <li class="nav-item dropdown">
                                     <a class="nav-link dropdown-toggle text-grey" data-toggle="dropdown"><i style="padding-right:10px;" class="fas fa-user"></i> 
@@ -614,16 +614,16 @@ if ($identifier == 0) {
                             
                             <?php } if($identifier == 2){ ?>
                               <li class="nav-item">
-                                        <a class="nav-link" aria-current="page" href="index.php">HOME</a>
+                                        <a class="nav-link" aria-current="page" href="../php/index.php">HOME</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" href="donation.php">DONATION</a>
+                                        <a class="nav-link" href="../php/donation.php">DONATION</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link active" href="forum.php">FORUM</a>
+                                        <a class="nav-link active" href="../php/forum.php">FORUM</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" href="feedback.php">FEEDBACK</a>
+                                        <a class="nav-link" href="../php/feedback.php">FEEDBACK</a>
                                     </li>
                                     <li class="nav-item dropdown">
                                     <a class="nav-link dropdown-toggle text-grey" data-toggle="dropdown"><i style="padding-right:10px;" class="fas fa-user"></i> 
@@ -649,17 +649,17 @@ if ($identifier == 0) {
 
                             <?php } if($identifier == 3){ ?>    
                               <li class="nav-item">
-                                        <a class="nav-link" aria-current="page" href="index.php">HOME</a>
+                                        <a class="nav-link" aria-current="page" href="../php/index.php">HOME</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" href="donation.php">DONATION</a>
+                                        <a class="nav-link" href="../php/donation.php">DONATION</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" href="forum.php">FORUM</a>
+                                        <a class="nav-link" href="../php/forum.php">FORUM</a>
                                     </li>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link active" href="feedback.php">FEEDBACK</a>
+                                        <a class="nav-link active" href="../php/feedback.php">FEEDBACK</a>
                                     </li>
                                     <li class="nav-item dropdown">
                                     <a class="nav-link dropdown-toggle text-grey" data-toggle="dropdown"><i style="padding-right:10px;" class="fas fa-user"></i> 
@@ -689,4 +689,4 @@ if ($identifier == 0) {
                         </div>
                     </nav>                             
 <?php 
-}}
+}} ?>

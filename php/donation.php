@@ -86,3 +86,4 @@ if (isset($_POST['upload'])) {
 </body>
 
 </html>
+<?php include("page_footer.php"); ?>  

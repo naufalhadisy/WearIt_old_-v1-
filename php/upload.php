@@ -65,8 +65,10 @@ include('dbconnection.php');
                 } else { ?>
                     <tr>
                         <th style="text-align:center; color:red;" colspan="6">No Record Found</th>
+
                     </tr>
                 <?php } ?>
+
 
             </tbody>
         </div>
@@ -74,3 +76,4 @@ include('dbconnection.php');
 </body>
 
 </html>
+<?php include("page_footer.php"); ?>  

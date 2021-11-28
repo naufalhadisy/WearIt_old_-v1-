@@ -84,3 +84,4 @@ include('dbconnection.php');?>
 
 </div>
 </section>
+<?php include("page_footer.php"); ?>  

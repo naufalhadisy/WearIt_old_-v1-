@@ -72,3 +72,5 @@ if (isset($_POST['submit'])) {
                             <th style="text-align:center; color:red;" colspan="6">No Record Found</th>
                         </tr>
                     <?php } ?>
+
+<?php include("page_footer.php"); ?>  

@@ -58,3 +58,4 @@ if (isset($_POST['submit'])) {
   
     </div>
 </section>
+<?php include("page_footer.php"); ?>  
