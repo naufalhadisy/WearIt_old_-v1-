@@ -42,7 +42,7 @@ include('dbconnection.php');
                                     </span>
                                     <h2><?php echo $row['donation']; ?></h2>
                                     <hr>
-                                    <img src="img/<?php echo $row['picture']; ?>" style="width:100%">
+                                    <img src="../img/<?php echo $row['picture']; ?>" style="width:100%">
                                     <br>
                                     <?php echo $row['description']; ?><br>
                                     <p>Posted by-<?php echo $row['name']; ?></p>
