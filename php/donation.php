@@ -22,7 +22,7 @@ if (isset($_POST['upload'])) {
         //rename the image file
         $imgnewfile = md5($imgfile) . time() . $extension;
         // Code for move image into directory
-        move_uploaded_file($_FILES["picture"]["tmp_name"], "img/" . $imgnewfile);
+        move_uploaded_file($_FILES["picture"]["tmp_name"], "../img/" . $imgnewfile);
         // Query for data insertion
         $query = mysqli_query($con, "insert into donation(picture, donation, description, name, email) value('$imgnewfile','$donation','$description','$name', '$email')");
         if ($query) {
