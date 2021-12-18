@@ -5,7 +5,8 @@ include("../config.php");
 
 error_reporting(0);
 ?>
-
+<div class="main-container">
+    
         <section class="s6">
             <div class="main-container">
                 <div class="hero-centertitle">
@@ -38,4 +39,7 @@ error_reporting(0);
                     <a class="btn btn-info" href="donor_edit_profile.php">Edit Profile</a>
                     <a class="btn btn-danger">Delete Profile</a>           
         </section>
+
+        </div>
+        </div>
 <?php include("../php/page_footer.php"); ?>           
